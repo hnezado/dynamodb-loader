@@ -1,0 +1,5 @@
+dynamodb:
+  table_name: alloy-me-app.alloys
+
+files:
+  json_file_path: input/alloys.json
